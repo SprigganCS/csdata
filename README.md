@@ -8,7 +8,8 @@ players:
   5 - dan
   6 - ga
   7- wilso
-  8 - kingn
+  8 - punk
+  9 - kingn
   0 - random
   
 Entrada de players em ordem crescente
