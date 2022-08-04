@@ -22,3 +22,4 @@ maps:
   5 - vertigo
   6 - dust II
   7 - Ancient
+  8 - train
